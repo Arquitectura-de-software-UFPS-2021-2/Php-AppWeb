@@ -36,6 +36,7 @@ _Ejecutamos el servidor desde el laragon y listo_
 - Laravel 7.0 - Framework web
 - PHP 7.4 - Lemguaje
 - Laragon - Permite crear entornos de desarrollo
+- [Guzzle](https://docs.guzzlephp.org/en/stable/) - Creador de cliente HTTP
 
 ## Contribuyendo 🖇️
 _Este es un proyecto open-source y nos interesa que lo apoyes haciendo cualquier contribución o mejora al código._ 🤓
