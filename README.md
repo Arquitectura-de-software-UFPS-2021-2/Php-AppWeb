@@ -23,6 +23,11 @@ git clone https://github.com/Arquitectura-de-software-UFPS-2021-2/Php-AppWeb.git
 ```
 _Una vez tengamos el proyecto localmente y teniendo instaladas las dependencias necesarias, cargamos el proyecto a [laragon](https://laragon.org/docs/easy-to-use.html)_
 
+_Entrar a la terminal de laragon, y actualizamos los paquetes de composer_
+```
+composer install
+```
+
 _Ejecutamos el servidor desde el laragon y listo_
 
 
