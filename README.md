@@ -38,8 +38,8 @@ _Este es un proyecto open-source y nos interesa que lo apoyes haciendo cualquier
 ## Autores ✒️
 - Gabriel Arturo - [gabrielgarcia2211](https://github.com/gabrielgarcia2211)
 - Ivan Uribe - [Ivancito-ur](https://github.com/Ivancito-ur)
-- Daniel Calderon [Danielcaos](https://github.com/Danielcaos)
-- Jairo Moises Soler
+- Daniel Calderon - [Danielcaos](https://github.com/Danielcaos)
+- Jairo Moises Soler - [jairosoler](https://github.com/jairosoler) 
 
 ## Licencia 📄
 _Este proyecto está bajo la Licencia ISC_ 📄
